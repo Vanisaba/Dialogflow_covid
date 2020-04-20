@@ -1,5 +1,5 @@
-Flask==1.1.2
-Requestsclick==7.1.1
+Requests
+click==7.1.1
 configreader==0.0.6
 emailsender==0.1.3
 Flask==1.1.2
